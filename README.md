@@ -5,23 +5,23 @@ A computer vision project to extract features from a single dense image of Mars 
 
 # Project Plan
 
-1. Examine image for extractable features
-	a. Crater count [start here]
-	b. Crater diameters (requires extra data)
-	c. Ejecta diameters
-	d. Ridge counts
-	e. Compare smooth to cratered surface statistics
-	f. Boulder counts
+1. Examine image for extractable features \
+	a. Crater count [start here] \
+	b. Crater diameters (requires extra data) \
+	c. Ejecta diameters \
+	d. Ridge counts \
+	e. Compare smooth to cratered surface statistics \
+	f. Boulder counts \
 2. Determine package and pre-trained model to use
-	a. Python
-		i. OpenCV
-		ii. Scikit-Image
-			a. https://scikit-image.org/docs/stable/user_guide/
-		iii. PIL (Python Imaging Library)
-		iv. Tensorflow
-		v. Keras
-	b. R
-		i. Rvision
+	a. Python \
+		i. OpenCV \
+		ii. Scikit-Image \
+			a. https://scikit-image.org/docs/stable/user_guide/ \
+		iii. PIL (Python Imaging Library) \
+		iv. Tensorflow \
+		v. Keras \
+	b. R \
+		i. Rvision \
 		
 3. Determine computer vision model to use
 
