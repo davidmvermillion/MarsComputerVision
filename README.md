@@ -11,7 +11,7 @@ A computer vision project to extract features from a single dense image of Mars 
 	c. Ejecta diameters \
 	d. Ridge counts \
 	e. Compare smooth to cratered surface statistics \
-	f. Boulder counts \
+	f. Boulder counts
 2. Determine package and pre-trained model to use
 	a. Python \
 		i. OpenCV \
@@ -21,7 +21,7 @@ A computer vision project to extract features from a single dense image of Mars 
 		iv. Tensorflow \
 		v. Keras \
 	b. R \
-		i. Rvision \
+		i. Rvision
 		
 3. Determine computer vision model to use
 
