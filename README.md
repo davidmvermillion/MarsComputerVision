@@ -7,6 +7,7 @@ A computer vision project to extract features from a single dense image of Mars 
 
 1. Examine image for extractable features \
 	a. Crater count [start here] \
+		i. SkImage [example](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_holes_and_peaks.html#sphx-glr-auto-examples-features-detection-plot-holes-and-peaks-py) \
 	b. Crater diameters (requires extra data) \
 	c. Ejecta diameters \
 	d. Ridge counts \
