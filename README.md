@@ -33,3 +33,6 @@ A computer vision project to extract features from a single dense image of Mars 
 
 ## Data Source
 1. [Mars Reconnaissance Orbiter ESP_072719_1970_RED.JP2](https://pds-imaging.jpl.nasa.gov/beta/record?uri=atlas:pds3:mro:mars_reconnaissance_orbiter:/MROHR_0001/data/RDR/ESP/ORB_072700_072799/ESP_072719_1970/ESP_072719_1970_RED.JP2)
+
+## Other Notes
+Consider combining algorithms. E.g. hole detection with blob detection
