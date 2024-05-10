@@ -13,7 +13,7 @@ A computer vision project to extract features from a single dense image of Mars 
 	d. Ridge counts \
 	e. Compare smooth to cratered surface statistics \
 	f. Boulder counts
-2. Determine package and pre-trained model to use
+2. Determine package and pre-trained model to use \
 	a. Python \
 		i. OpenCV \
 		ii. Scikit-Image \
