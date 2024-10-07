@@ -25,7 +25,7 @@ A computer vision project to extract features from a single dense image of Mars 
 		i. Rvision
 		
 3. Determine computer vision model to use \
-	a. [Gabor filter banks for texture classification](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_gabor.html#sphx-glr-auto-examples-features-detection-plot-gabor-py) \
+	a. ~~[Gabor filter banks for texture classification](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_gabor.html#sphx-glr-auto-examples-features-detection-plot-gabor-py)~~ \
 	b. [Local Binary Pattern for texture classification](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_local_binary_pattern.html#sphx-glr-auto-examples-features-detection-plot-local-binary-pattern-py) \
 	c. [Multi-Block Local Binary Pattern for texture classification](https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_multiblock_local_binary_pattern.html#sphx-glr-auto-examples-features-detection-plot-multiblock-local-binary-pattern-py) \
 	d. [Morphological Filtering](https://scikit-image.org/docs/stable/auto_examples/applications/plot_morphology.html#sphx-glr-auto-examples-applications-plot-morphology-py) \
@@ -44,3 +44,4 @@ A computer vision project to extract features from a single dense image of Mars 
 
 ## Other Notes
 Consider combining algorithms. E.g. hole detection with blob detection
+Consider using [YOLO](https://docs.ultralytics.com/models/yolo11/#how-does-yolo11-achieve-greater-accuracy-with-fewer-parameters)
